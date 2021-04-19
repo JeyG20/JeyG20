@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JeyG20
 - 👀 Lover of technology, geek by nature
-- 🌱 I’m currently improving my knowlege of OOP
+- 🌱 On my path to improving my knowlege programming "algorithms & OOp"
 - 💞️ My main goal is to be part of the future technology development
 
 <!---
